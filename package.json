@@ -2,8 +2,8 @@
     "name": "lavl",
     "displayName": "Lavl",
     "description": "Inspired by some other theme I've seen on YT but wasn't able to find elsewhere",
-    "publisher" : "HichuYamichu",
-    "version": "1.0.0",
+    "publisher": "HichuYamichu",
+    "version": "0.0.1",
     "repository": "https://github.com/HichuYamichu/Lavl",
     "engines": {
         "vscode": "^1.33.0"
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "lavl",
+                "label": "Lavl",
                 "uiTheme": "vs-dark",
                 "path": "./themes/lavl-color-theme.json"
             }

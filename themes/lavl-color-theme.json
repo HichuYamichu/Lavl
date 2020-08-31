@@ -264,6 +264,13 @@
 	},
 	"tokenColors": [
 		{
+			"name": "Remove italics",
+			"scope": "keyword.control, storage.type, storage.type.core, variable.language",
+			"settings": {
+				"fontStyle": "",
+			}
+		},
+		{
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
@@ -320,7 +327,7 @@
 			"name": "Keyword, Storage",
 			"scope": "storage.type, keyword.control",
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -391,7 +398,7 @@
 			"name": "Language methods",
 			"scope": "variable.language",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#FF5370"
 			}
 		},
@@ -498,7 +505,7 @@
 			"name": "Decorators",
 			"scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -506,7 +513,7 @@
 			"name": "ES7 Bind Operator",
 			"scope": "source.js constant.other.object.key.js string.unquoted.label.js",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#FF5370"
 			}
 		},
@@ -908,7 +915,7 @@
 			"scope": "support.type.object.module.js",
 			"settings": {
 				"foreground": "#c155d6",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{

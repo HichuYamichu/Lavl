@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] - 2019-06-14
+
+## [0.0.2] - 2020-08-31
+### Changed
+ - removed italics from numerous TM scopes.
